@@ -48,8 +48,20 @@ envLang/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/Harshit-bhardwaj08/GEN-Ai_LANGCHAIN.git
+   cd GEN-Ai_LANGCHAIN
+   ```
+ 2. **Install dependencies**
+   ```bash
+  pip install -r requirements.txt
+
+   ```
+3. **Set up environment variables**
+   Create a .env file:
+   ```bash
+  OPENAI_API_KEY=your_api_key_here
+
+   ```
 
 ## 🛠️ Tech Stack
 
