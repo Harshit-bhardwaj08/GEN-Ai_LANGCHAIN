@@ -32,6 +32,7 @@ envLang/
 
 .gitignore
   - Files and folders excluded from version control
+```
 ## 🎯 Learning Objectives
 
 - Understand and work with **Chat Models and LLMs**
