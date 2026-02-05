@@ -53,7 +53,7 @@ envLang/
    ```
  2. **Install dependencies**
     ```bash
-    pip install -r requirements.txt
+    pip install -r Requirements.txt
     ```
 3. **Set up environment variables** (Create a .env file)
    ```bash
