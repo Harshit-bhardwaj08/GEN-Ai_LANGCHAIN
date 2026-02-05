@@ -52,15 +52,12 @@ envLang/
    cd GEN-Ai_LANGCHAIN
    ```
  2. **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. **Set up environment variables** (Create a .env file)
    ```bash
-  pip install -r requirements.txt
-
-   ```
-3. **Set up environment variables**
-   Create a .env file:
-   ```bash
-  OPENAI_API_KEY=your_api_key_here
-
+   OPENAI_API_KEY=your_api_key_here
    ```
 
 ## 🛠️ Tech Stack
